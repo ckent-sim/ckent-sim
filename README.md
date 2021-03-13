@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ckent-sim
+- 🌱 I’m currently learning Vuejs, Reactjs
+- 📫 How to reach me: cheekent.sim@gmail.com
