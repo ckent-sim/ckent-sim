@@ -1,3 +1,8 @@
 - 👋 Hi, I’m @ckent-sim
-- 🌱 I’m currently learning Vuejs, Reactjs
-- 📫 How to reach me: cheekent.sim@gmail.com
+- a Python Developer working on full stack, API Integration and open source frameworks
+- Good with Python, React, Flask, Frappe, ERPNext, Nodejs
+- New to Django, NextJs
+- Learn but forgot about Java
+- 🌱 I’m currently learning SPFx to create web part
+- Next in my learning, Flutter, Angular, Django, NextJs, Spring
+- - 📫 How to reach me: cheekent.sim@gmail.com
